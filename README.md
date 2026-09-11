@@ -1,6 +1,20 @@
-# Verificador de Suporte de Vida
+# 🚀 Missão Aurora Boreal-7
+
+## Verificador de Suporte de Vida
 
 Um script simples em Python que simula a verificação dos sistemas de suporte de vida de um módulo espacial, exibindo o status de oxigênio, pressão e reciclagem de água.
+
+## 🌐 Camadas de Ambiente
+
+O projeto segue o fluxo de três camadas de ambiente:
+
+- **develop**: ambiente de desenvolvimento ativo, onde novas funcionalidades são implementadas e testadas localmente antes de qualquer integração.
+- **stage**: ambiente de homologação, usado para validar as mudanças em condições semelhantes às de produção antes do lançamento oficial.
+- **main**: ambiente de produção, contendo a versão estável e oficial do sistema de suporte de vida, em operação real na missão.
+
+## 👨‍🚀 Tripulantes (Desenvolvedores)
+
+- **Marina Castelo** — Engenheira de Software
 
 ## 📋 Descrição
 
